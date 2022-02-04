@@ -1,2 +1,2 @@
 # GlitchArtPrcatice
-Course work demo
+This is a post processing effect demo based on openFramework
